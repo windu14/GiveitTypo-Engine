@@ -1,0 +1,6 @@
+Library Yang Dibutuhkan :
+
+symspellpy
+Sastrawi
+PyMuPDF
+reportlab
