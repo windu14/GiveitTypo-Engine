@@ -52,7 +52,7 @@ Mau ikut ngembangin kode ini? Gas, ikuti langkah ini:
 
 **1. Clone Repository ini**
 ```bash
-git clone [https://github.com/USERNAME_LU/giveit-typo.git](https://github.com/USERNAME_LU/giveit-typo.git)
+git clone [https://github.com/USERNAMEU/giveit-typo.git](https://github.com/USERNAME/giveit-typo.git)
 cd giveit-typo
 
 # GiveitTypo-Engine
